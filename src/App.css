@@ -1,0 +1,41 @@
+body, html {
+  border: none;
+  margin: 0;
+  padding: 0;
+  background: #ebebeb;
+  height: 100%;
+  font-family: "Helvetica Neue", Helvetica, "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "微软雅黑", Arial, sans-serif;
+}
+
+input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0px 1000px white inset;
+}
+
+input::-ms-clear, ::-ms-reveal {
+  display: none
+}
+
+dl, dd, p, h1, h2, h3, h4, h5, h6 {
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  text-decoration: none;
+}
+
+textarea, button {
+  font-family: 'Microsoft YaHei', Helvetica, Arial, sans-serif;
+  -webkit-appearance: none;
+}
+
+ul, li {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+input:focus {
+  outline: none;
+}
+

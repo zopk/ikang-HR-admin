@@ -1,0 +1,155 @@
+[
+  {
+    "filePath": "/index",
+    "name": "index",
+    "path": "/",
+    "meta": {
+      "title": "首页"
+    }
+  },
+  {
+    "filePath": "/AddPersonRecord",
+    "name": "AddPersonRecord",
+    "path": "/AddPersonRecord",
+    "meta": {
+      "title": "添加人员记录"
+    }
+  },
+  {
+    "filePath": "/Person",
+    "name": "Person",
+    "path": "/Person",
+    "meta": {
+      "title": "人员记录"
+    }
+  },
+  {
+    "filePath": "/Service",
+    "name": "Service",
+    "path": "/Service/:serviceType",
+    "meta": {
+      "title": "服务"
+    }
+  },
+  {
+    "filePath": "/ServiceDetail",
+    "name": "servicedetail",
+    "path": "/ServiceDetail/:serviceType/:id/:enterpriseId",
+    "meta": {
+      "title": "服务详情"
+    }
+  },
+  {
+    "filePath": "/BasicSetting",
+    "name": "BasicSetting",
+    "path": "/BasicSetting",
+    "meta": {
+      "title": "基础信息配置"
+    }
+  },
+  {
+    "filePath": "/InstructionSetting",
+    "name": "InstructionSetting",
+    "path": "/InstructionSetting",
+    "meta": {
+      "title": "使用说明配置"
+    }
+  },
+  {
+    "filePath": "/NewBasics",
+    "name": "NewBasics",
+    "path": "/NewBasics",
+    "meta": {
+      "title": "新建基础信息配置"
+    }
+  },
+  {
+    "filePath": "/NewInstruction",
+    "name": "NewInstruction",
+    "path": "/NewInstruction",
+    "meta": {
+      "title": "新建使用说明配置"
+    }
+  },
+  {
+    "filePath": "/BasicSetting",
+    "name": "BasicSetting",
+    "path": "/BasicSetting",
+    "meta": {
+      "title": "基础信息配置"
+    }
+  },
+  {
+    "filePath": "/BasicsDetail",
+    "name": "BasicsDetail",
+    "path": "/BasicsDetail/:id",
+    "meta": {
+      "title": "基础信息配置详情"
+    }
+  },
+  {
+    "filePath": "/InstructionDetail",
+    "name": "InstructionDetail",
+    "path": "/InstructionDetail/:id",
+    "meta": {
+      "title": "使用说明配置详情"
+    }
+  },
+  {
+    "filePath": "/PlatformtList",
+    "name": "PlatformtList",
+    "path": "/PlatformtList",
+    "meta": {
+      "title": "平台列表"
+    }
+  },
+  {
+    "filePath": "/NewPlatforms",
+    "name": "NewPlatforms",
+    "path": "/NewPlatforms",
+    "meta": {
+      "title": "新建平台"
+    }
+  },
+  {
+    "filePath": "/AccountDetail",
+    "name": "AccountDetail",
+    "path": "/AccountDetail/:id",
+    "meta": {
+      "title": "新建用户"
+    }
+  },
+  {
+    "filePath": "/Accountlist",
+    "name": "accountlist",
+    "path": "/Accountlist",
+    "meta": {
+      "title": "账号列表"
+    }
+  },
+  {
+    "filePath": "/CreateAccount",
+    "name": "CreateAccount",
+    "path": "/CreateAccount",
+    "meta": {
+      "title": "新建用户"
+    }
+  },
+  {
+    "filePath": "/ShowPlatforms",
+    "name": "ShowPlatforms",
+    "path": "/ShowPlatforms/:id",
+    "meta": {
+      "title": "新建用户"
+    }
+  },
+  {
+    "filePath": "/Login",
+    "name": "login",
+    "path": "/Login",
+    "redirect": "/Login",
+    "meta": {
+      "title": "登录"
+    }
+  }
+]
